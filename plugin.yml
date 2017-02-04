@@ -1,0 +1,30 @@
+# STORMHEART NETWORK 2017
+# WWW.STORMHEART.NET
+
+name: STORMHEART-drown
+main: net.stormheart.drown
+version: 1.0
+prefix: STORMHEART
+description: Plugin development guide.
+website: http://www.stormheart.net
+authors:
+  - josh@stormheart.net
+  - ben@stormheart.net
+  - klemms@stormheart.net
+commands:
+#  pluginStyle:
+##    usage: /<command>
+#    description: Default style guide for plugin development.
+#    aliases: [styleguide, ps]
+#permissions:
+#  pluginStyle.*:
+#    description: Grants access to all commands within this plugin.
+#    children:
+#      pluginStyle.admin: true
+#  pluginStyle.admin:
+#    description: Allows access to admin commands.
+#    default: op
+#  pluginStyle.user:
+#    description: Allows access to default commands.
+#    default: true
+
